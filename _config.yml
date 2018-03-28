@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: A Computer Enthusiast from Malaysia
-email: your-email@example.com
+email: peterphoo@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-              Interacting with Computer has become part of life.
+              Interact with Computer has become part of life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
